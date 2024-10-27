@@ -1,4 +1,3 @@
-![logo](https://github.com/SahilMalavi/Sahil_Malavi/blob/main/linkedin%20banner.png)
 <h1 align="center">Hi there 👋, I'm Sahil Malavi</h1>
 <h3 align="center">I am Software Developer | AI-ML Enthusiast </h3>
 
