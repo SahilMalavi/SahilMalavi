@@ -1,4 +1,4 @@
-# myProfile
+# SahilMalavi
 <h1 align="center">Hi there, I'm Sahil Malavi</h1>
 <h3 align="center">I am Software Developer | AI-ML Enthusiast </h3>
 
