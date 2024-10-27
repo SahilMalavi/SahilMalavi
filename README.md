@@ -6,8 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahilMalavi" alt="SahilMalavi" /></a> </p>
 
-- 📫 How to reach me **sahilmalavi96@gmail.com**
 
+- 📫 How to reach me **sahilmalavi96@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="(https://x.com/i/flow/login?redirect_after_login=%2FSahil28653635)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil-X" height="30" width="40" /></a>
