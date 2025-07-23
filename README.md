@@ -100,19 +100,11 @@ const sahil = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMalavi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMalavi&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilMalavi&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilMalavi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
