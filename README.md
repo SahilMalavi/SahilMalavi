@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Sahil Vishnu Malavi
+# 👋 Hello World! I'm Sahil Malavi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Google+Cloud+Certified" alt="Typing SVG" />
@@ -32,8 +32,6 @@ Full-Stack Developer with hands-on expertise in the MERN stack and focused inter
 - 👯 Looking to collaborate on **MERN Stack** and **AI/ML projects**
 - 💬 Ask me about **React.js, Node.js, Python, Machine Learning**
 - 📫 Reach me at: **sahilmalavi96@gmail.com**
-- 📱 Phone: **+91 9850528634**
-- ⚡ Fun fact: **GSSoC'24 Contributor & Internal Hackathon Winner!**
 
 ---
 
