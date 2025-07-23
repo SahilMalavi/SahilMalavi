@@ -1,7 +1,7 @@
-# 👋 Hello World! I'm Sahil Malavi
+# 👋 Hello World! I'm Sahil Vishnu Malavi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Google+Cloud+Certified" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,26 +24,27 @@ const sahil = {
 };
 ```
 
-- 🔭 Currently working on **AI/ML projects** and **Full Stack applications**
-- 🌱 Learning **Advanced Machine Learning** and **Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Python, JavaScript, React, or AI/ML**
+**🎯 Professional Summary:**  
+Full-Stack Developer with hands-on expertise in the MERN stack and focused interest in AI/ML. Delivered 10+ impactful projects including real-time mechanic services platform, NLP-powered book recommender, and AI assistant. Google Cloud & Postman API certified, driven to build scalable, real-world tech solutions.
+
+- 🔭 Currently working on **MechHelp** - Smart Online Mechanic Services Platform
+- 🌱 Learning **Advanced AI/ML** and **Cloud Technologies**
+- 👯 Looking to collaborate on **MERN Stack** and **AI/ML projects**
+- 💬 Ask me about **React.js, Node.js, Python, Machine Learning**
 - 📫 Reach me at: **sahilmalavi96@gmail.com**
-- ⚡ Fun fact: **I love solving complex problems with elegant solutions**
+- 📱 Phone: **+91 9850528634**
+- ⚡ Fun fact: **GSSoC'24 Contributor & Internal Hackathon Winner!**
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://x.com/i/flow/login?redirect_after_login=%2FSahil28653635">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://www.linkedin.com/in/sahil-malavi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/sahil.malavi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/SahilMalavi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/sahilmalavi96/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -51,43 +52,53 @@ const sahil = {
   <a href="mailto:sahilmalavi96@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-### Frontend
+### Web Development (MERN Stack)
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-### Backend & Database
+### AI & Machine Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </div>
 
 ### Tools & Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </div>
 
 ---
@@ -95,45 +106,17 @@ const sahil = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilMalavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMalavi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilMalavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMalavi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMalavi&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilMalavi&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilMalavi&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript  8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.23%
-Python      4 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   25.58%
-React       2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12%
-HTML/CSS    1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.61%
-Other       0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Building innovative AI/ML projects
-- 📚 Contributing to open source projects
-- 🌟 Expanding knowledge in cloud technologies
-- 🤝 Collaborating with fellow developers
-- 📝 Writing technical blogs and tutorials
-
----
-
-## 🏅 GSSOC(24) Achievements
+## 🏅 GSSOC(24) Achievement Badges
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
@@ -152,36 +135,34 @@ Other       0 hrs 5 mins    ░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Goals & Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SahilMalavi&theme=tokyonight" alt="WakaTime Stats" />
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=00d9ff" alt="Spotify" />
-</div>
+- 🚀 **Building MechHelp** - Scaling the mechanic services platform
+- 🤖 **Advanced AI/ML** - Exploring deep learning and neural networks  
+- ☁️ **Cloud Technologies** - Expanding Google Cloud expertise
+- 🌟 **Open Source** - Contributing to more MERN stack projects
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Fun Facts
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+- 🏆 Won Internal Smart India Hackathon 2024
+- 💻 Solved 200+ coding problems across platforms
+- 🌟 GSSoC'24 contributor with multiple badges
+- 📱 Built projects serving 70+ real users
+- ☁️ Google Cloud certified developer
+- 🔗 Postman API expert
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
-  <b>⭐ Star some repositories if you find them interesting!</b><br>
-  <b>🍴 Fork them if you want to contribute!</b><br>
-  <b>📧 Reach out if you want to collaborate!</b>
+  <h3>💼 Open for opportunities | 🤝 Let's collaborate | 📧 sahilmalavi96@gmail.com</h3>
+  
+  **⭐ Star repositories that interest you!**  
+  **🍴 Fork projects you'd like to contribute to!**  
+  **📧 Reach out for collaboration opportunities!**
 </div>
