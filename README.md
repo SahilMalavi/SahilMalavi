@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Sahil Malavi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Google+Cloud+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Google+Cloud+Certified" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,16 +18,16 @@
 const sahil = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: ["AI/ML", "Full Stack Development", "Open Source"],
-    askMeAbout: ["Web Dev", "Machine Learning", "Python", "React"],
+    currentFocus: ["AI/ML", "Backend Development", "Open Source"],
+    askMeAbout: ["Web Dev", "Machine Learning", "Python"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
 **🎯 Professional Summary:**  
-Full-Stack Developer with hands-on expertise in the MERN stack and focused interest in AI/ML. Delivered 10+ impactful projects including real-time mechanic services platform, NLP-powered book recommender, and AI assistant. Google Cloud & Postman API certified, driven to build scalable, real-world tech solutions.
+Backend Developer with hands-on expertise in the MERN stack and focused interest in AI/ML. Delivered 10+ impactful projects including real-time mechanic services platform, NLP-powered book recommender, and AI assistant. Google Cloud & Postman API certified, driven to build scalable, real-world tech solutions.
 
-- 🔭 Currently working on **MechHelp** - Smart Online Mechanic Services Platform
+- 🔭 Latest project **MechHelp** - Smart Online Mechanic Services Platform
 - 🌱 Learning **Advanced AI/ML** and **Cloud Technologies**
 - 👯 Looking to collaborate on **MERN Stack** and **AI/ML projects**
 - 💬 Ask me about **React.js, Node.js, Python, Machine Learning**
