@@ -120,10 +120,10 @@ Backend-focused Software Engineer experienced in building scalable REST APIs, au
 
 ## 💡 Highlights
 
-- 🏆 Won Internal Smart India Hackathon 2024
 - 💻 Solved 400+ coding problems across platforms
-- 🌟 GSSoC'24 contributor with multiple badges
 - 📱 Built projects serving 50+ real users
+- 🏆 Won Internal Smart India Hackathon 2024
+- 🌟 GSSoC'24 contributor with multiple badges
 - ☁️ Google Cloud-Storage skill badge
 - 🔗 Postman API expert
 
