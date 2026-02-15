@@ -21,6 +21,7 @@ const sahil = {
 ```
 
 **🎯 Professional Summary:**  
+
 Backend-focused Software Engineer experienced in building scalable REST APIs, authentication workflows (RBAC/JWT), and deployed full-stack applications. Worked on AI-powered features, real-time services and production systems with emphasis on performance and reliability.
 
 - 🔭 Building **backend services** & **scalable applications**
@@ -67,6 +68,7 @@ Backend-focused Software Engineer experienced in building scalable REST APIs, au
 <div align="center"> <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> </div>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
