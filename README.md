@@ -1,13 +1,8 @@
 # 👋 Hello World! I'm Sahil Malavi
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Google+Cloud+Certified" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SahilMalavi&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SahilMalavi?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Web%20Development-00d9ff?style=for-the-badge" alt="Focus" />
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend-Focused+Developer;APIs+%26+System+Design;AI-Integrated+Applications;Cloud+%26+Docker" alt="Typing SVG" /> 
+</div> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=SahilMalavi&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/SahilMalavi?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" /> <img src="https://img.shields.io/badge/Focus-Backend%20Systems%20%26%20Scalable%20Apps-00d9ff?style=for-the-badge" alt="Focus" /> 
 </div>
 
 ---
