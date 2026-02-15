@@ -16,21 +16,21 @@
 
 ```javascript
 const sahil = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: ["AI/ML", "Backend Development", "Open Source"],
-    askMeAbout: ["Web Dev", "Machine Learning", "Python"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    role: "Software Engineer",
+    focus: ["Backend Systems", "APIs", "Performance", "AI-integrated features"],
+    currentlyWorkingOn: "Production web applications & scalable backend services",
+    tech: ["Node.js", "TypeScript", "Python", "Databases", "Docker", "AWS"],
+    funFact: "I care more about why systems fail than just making them run 😄"
 };
+
 ```
 
 **🎯 Professional Summary:**  
-Backend Developer with hands-on expertise in the MERN stack and focused interest in AI/ML. Delivered 10+ impactful projects including real-time mechanic services platform, NLP-powered book recommender, and AI assistant. Google Cloud & Postman API certified, driven to build scalable, real-world tech solutions.
+Backend-focused Software Engineer experienced in building scalable REST APIs, authentication workflows (RBAC/JWT), and deployed full-stack applications. Worked on AI-powered features, real-time services and production systems with emphasis on performance and reliability.
 
-- 🔭 Latest project **MechHelp** - Smart Online Mechanic Services Platform
+- 🔭 Building **backend services** & **scalable applications**
 - 🌱 Learning **Advanced AI/ML** and **Cloud Technologies**
 - 👯 Looking to collaborate on **MERN Stack** and **AI/ML projects**
-- 💬 Ask me about **React.js, Node.js, Python, Machine Learning**
 - 📫 Reach me at: **sahilmalavi96@gmail.com**
 
 ---
@@ -62,6 +62,7 @@ Backend Developer with hands-on expertise in the MERN stack and focused interest
 ### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -135,20 +136,20 @@ Backend Developer with hands-on expertise in the MERN stack and focused interest
 
 ## 🎯 Current Goals & Learning
 
-- 🚀 **Building MechHelp** - Scaling the mechanic services platform
-- 🤖 **Advanced AI/ML** - Exploring deep learning and neural networks  
-- ☁️ **Cloud Technologies** - Expanding Google Cloud expertise
-- 🌟 **Open Source** - Contributing to more MERN stack projects
+- Backend systems & scalable APIs
+- Performance optimization & reliability
+- AI-powered application features
+- Cloud (AWS) & containerized deployments
 
 ---
 
-## 💡 Fun Facts
+## 💡 Highlights
 
 - 🏆 Won Internal Smart India Hackathon 2024
-- 💻 Solved 200+ coding problems across platforms
+- 💻 Solved 400+ coding problems across platforms
 - 🌟 GSSoC'24 contributor with multiple badges
-- 📱 Built projects serving 70+ real users
-- ☁️ Google Cloud certified developer
+- 📱 Built projects serving 50+ real users
+- ☁️ Google Cloud-Storage skill badge
 - 🔗 Postman API expert
 
 ---
